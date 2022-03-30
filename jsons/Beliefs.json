@@ -33,7 +33,7 @@
   {
     "name": "Palamite Panentheism",
     "type": "Pantheon",
-    "uniques": ["[+2]% [Production] from every follower, up to [50]%","[+30]% great person generation [in cities following this religion]","[+3 Faith] from every [Ascetic]"]
+    "uniques": ["[+5]% [Production] from every follower, up to [100]%","[+5]% [Culture] from every follower, up to [100]%","[+50]% great person generation [in cities following this religion]","[+3 Faith] from every [Ascetic]"]
   },
   {
     "name": "Polytheism",
